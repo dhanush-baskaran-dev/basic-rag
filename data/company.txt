@@ -1,0 +1,11 @@
+Our company provides software development services.
+
+We have offices in Chennai and Bangalore.
+
+Employees receive 20 days of annual leave.
+
+The company uses React, Node.js and TypeScript for software development.
+
+Employees can work remotely three days per week.
+
+The company was founded in 2018.
